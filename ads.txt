@@ -1,0 +1,8 @@
+# ads.txt — Carnicería La Gran Finca
+# Archivo exigido por Google AdSense en la raíz del dominio publicado.
+# Cuando tenga su ID de editor, descomente y complete la línea (pub- sin el prefijo ca-):
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec57c4616
+#
+# El sitio institucional es https://carnicer-a-la-gran-finca.onrender.com/
+# Verificante: Andrés Felipe Orozco Marín
+# ID de campaña Google Ads (canal pagado, distinto de AdSense): 583-992-4223
